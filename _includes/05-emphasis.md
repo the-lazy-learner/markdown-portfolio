@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+A _student_ developer currently learning *Flutter* and *Web* technologies, comfortable with *JVM* languages.
